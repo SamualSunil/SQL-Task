@@ -1,0 +1,2 @@
+insert into movies (id,Title,director,year,Length_minutes)values(4,"Toy Story 4","John Lasseter",2022,105);
+insert into Boxoffice (Movie_id	,Rating,Domestic_sales,International_sales)values (4,8.7,'340M','270M');
